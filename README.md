@@ -1,2 +1,2 @@
 # KickstarterAnalysis
-Analysis comparing Louise' campaign "fever" to other kickstarter campaigns. 
+Analyzin and comparing Louise' campaign "Fever" to other kickstarter campaigns. 
