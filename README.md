@@ -1,2 +1,2 @@
 # KickstarterAnalysis
-Louise Analysis regarding Kickstarter Plays
+Analysis comparing Louise' campaign "fever" to other kickstarter campaigns. 
