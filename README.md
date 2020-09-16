@@ -7,15 +7,16 @@ The purpose of this assignment is to compare how other similar kickstarter lay c
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
- I performed the analysis by using pivot tables and charts created in the assignment to compare Louise kickstarter campaign ot other kickstarter play campaigns. In the deliverable we looked at outcome by launch date. The data was then filtered to show all kickstarter campaigns with the parent category of theater. Using a pivot table I arranged the data in the pivot table where the months were the row and outcomes were the column. To run an additional analysis I also calculated the percentage of success rates by month.  This let me see by month what percentage of theater campaigns succeeded or failed. This showed me that May was the most popular but also successful month with a 67% success rate which was higher than all other months. Louise started in July which only had a 63% success rate. Also, December was the worst month with only a 49% success rate (the only month below a 50% success rate). January had the most cancelled plays. I’d be curious to dive deeper to see if holidays or tax returns impacted the success rate vs failure rate. 
+ I performed the analysis by using pivot tables and charts created in the assignment to compare Louise's kickstarter campaign to other kickstarter play campaigns. In the deliverable we looked at outcome by launch date. The data was then filtered to show all kickstarter campaigns with the parent category of theater. Using a pivot table, I arranged the data in the pivot table where the months were the row and outcomes were the column. To run an additional analysis I also calculated the percentage of success rates by month.  This let me see by month what percentage of theater campaigns succeeded or failed. 
+  This showed me that May was the most popular but also successful month with a 67% success rate which was higher than all other months. Louise started in July which only had a 63% success rate. Also, December was the worst month with only a 49% success rate (the only month below a 50% success rate). January had the most cancelled plays.  Overall, I recommend Louise to have started her campaign earlier in the summer in May.
  
 ![](resources/Theater_Outcomes_Vs_Launch.png)
 
 [Link to Excel Kickstarter Challenge Charts](Kickstarter_Challenge.zip)
 
 ### Analysis of Outcomes Based on Goals
- I performed this analysis by using the count if function. This formula showed me the number of kickstarter campaigns by goal amounts. Also included in the count if functions were filters within the formulas by outcomes and plays.  This gave me the amount of play kickstarter campaigns that succeeded/failed/cancelled by goal ranges. Then I created percentiles to better analyze goal ranges and their success rate. 
-  Here I was able to see the most successful campaigns were less than 1k. Goals under 1k had a 76% success rate. Goals between 1k and 5k also had a 73% success rate. The higher the goal the lower the success rate. Louise’s campaign was under 5k but I’d recommend a lower goal for Louise to increase her success chance.   
+ I performed this analysis by using the count if function. This formula showed me the number of kickstarter campaigns by goal amounts by outcome. Also included in the count if functions were filters within the formulas by outcomes for only play kickstarter campaigns.  This gave me the amount of play kickstarter campaigns that succeeded/failed/canceled by goal ranges. Then I created percentiles to better analyze goal ranges and their success rate. 
+  Here I was able to see the most successful campaigns were less than 1k. Goals under 1k had a 76% success rate. Goals between 1k and 5k also had a 73% success rate. The higher the goal the lower the success rate. Louise’s campaign was under 5k at $2885 but lowering her goal further would have increased her chances of success. 
  
 ![](resources/Outcomes_vs_Goals.png)
 
@@ -27,7 +28,7 @@ The purpose of this assignment is to compare how other similar kickstarter lay c
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
- Two things I concluded on outcomes based on launch date was May is the best and most popular time to launch a kickerstarter play campaign, whereas December is the worst time, having the most failed campaigns. January had the most cancelled kickstarter campaign concluding that holiday time is the most unsuccessful time to launch a play.  Louise launched her campaign in July, whereas the most successful campaigns were launched in May. I’d recommend Louise to launch her kickstarter campaign sooner. 
+ Two things I concluded on outcomes based on launch date was May is the best and most popular time to launch a kickerstarter play campaign, whereas December is the worst time, having the most failed campaigns. January had the most cancelled kickstarter campaign concluding that holiday time is the most unsuccessful time to launch a play.  Louise launched her campaign in July, whereas the most successful campaigns were launched in May. I’d recommend Louise to launch her kickstarter campaign in May. 
 
 - What can you conclude about the Outcomes based on Goals
 
