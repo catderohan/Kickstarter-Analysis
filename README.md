@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this assignment is to compare how other similar kickstarter play campaigns fared to Louise’s failed kickstarter play campaign. Using the data we were able to compare other kickstarter plays launch date and funding goals to find the idea launch time and goal for a kickstarter play. 
+The purpose of this assignment was to compare how other similar kickstarter play campaigns fared to Louise’s failed kickstarter play campaign. Using the data we were able to compare other kickstarter plays launch date and funding goals to find the idea launch time and goal for a kickstarter play. 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
@@ -32,11 +32,11 @@ The purpose of this assignment is to compare how other similar kickstarter play 
 
 - What can you conclude about the Outcomes based on Goals
 
- The most successful projects had a goal lower than $1k with a success rate of 76%. Also, Over ½ of the kickstarter projects had a goal between $1k and $5k with a 73% rate.  Any  campaigns over 50k, 88% of them failed. I can conclude within this data, the lower the campaign the higher the success rate. Lastly, it’s best to keep goal range for plays below 5k. Louise goal was $2,885 which is within range but still higher than the median goal of plays at $3,000. I’d recommend Louise lowering her goal closer to the 2k range. 
+ The most successful projects had a goal lower than $1k with a success rate of 76%. Also, Over ½ of the kickstarter projects had a goal between $1k and $5k with a 73% rate.  Any  campaigns over 50k, 88% of them failed. I can conclude within this data, the lower the campaign goal the higher the success rate. Lastly, it’s best to keep goal range for plays below 5k. Louise goal was $2,885 which is within range but still higher than the median goal of plays at $3,000. I’d recommend Louise lowering her goal closer to the 2k range to have increased her chance of a successful campaign. 
 
 - What are some limitations of this dataset?
 
- I didn’t feel this was an apples to apples comparison. I would have used just 2016 kickstarter plays campaigns in the US to fully compare Louise’s results to other similar kickstarter play campaigns 
+ I didn’t feel this was an apples to apples comparison. I would have used just 2016 kickstarter plays campaigns in the US to fully compare Louise’s results to other similar kickstarter play campaigns.
 
 - What are some other possible tables and/or graphs that we could create?
 
