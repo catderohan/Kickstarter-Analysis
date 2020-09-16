@@ -8,6 +8,7 @@ The purpose of this assignment was to compare how other similar kickstarter play
 
 ### Analysis of Outcomes Based on Launch Date
  I performed the analysis by using pivot tables and charts created in the assignment to compare Louise's kickstarter campaign to other kickstarter play campaigns. In the deliverable we looked at outcome by launch date. The data was then filtered to show all kickstarter campaigns with the parent category of theater. Using a pivot table, I arranged the data in the pivot table where the months were the row and outcomes were the column. To run an additional analysis I also calculated the percentage of success rates by month.  This let me see by month what percentage of theater campaigns succeeded or failed. 
+  
   Using the data, I concluded that May was the most popular but also successful month with a 67% success rate which was higher than all other months. Louise started in July which only had a 63% success rate. Also, December was the worst month with only a 49% success rate (the only month below a 50% success rate). January had the most cancelled plays.  Overall, I recommend Louise to have started her campaign earlier in the summer in May.
  
 ![](resources/Theater_Outcomes_Vs_Launch.png)
@@ -16,6 +17,7 @@ The purpose of this assignment was to compare how other similar kickstarter play
 
 ### Analysis of Outcomes Based on Goals
  I performed this analysis by using the count if function. This formula showed me the number of kickstarter campaigns by goal amounts by outcome. Also included in the count if functions were filters within the formulas by outcomes for only play kickstarter campaigns.  This gave me the amount of play kickstarter campaigns that succeeded/failed/canceled by goal ranges. Then I created percentiles to better analyze goal ranges and their success rate. 
+  
   Here I was able to see the most successful campaigns were less than 1k. Goals under 1k had a 76% success rate. Goals between 1k and 5k also had a 73% success rate. The higher the goal the lower the success rate. Louise’s campaign was under 5k at $2885 but lowering her goal further would have increased her chances of success. 
  
 ![](resources/Outcomes_vs_Goals.png)
@@ -24,6 +26,7 @@ The purpose of this assignment was to compare how other similar kickstarter play
 
 ### Challenges and Difficulties Encountered
  In this first deliverable for analysis of outcomes, I struggled with not wanting to continue to breakdown the data. I wanted to look at the data by 2016 and just plays instead of a theater breakdown. I use pivot tables a lot in my current job so I didn’t struggle with the table as much, but more of doing what was asked instead of continuing to break the data down.
+ 
  In the second analysis, I struggled some with the count if function. I have never used the count if function and found it a bit tricky and tedious at first. I used > rather than >= on some of the formulas which made my numbers not match up at first. Once I realized this mistake I was able to get the correct numbers in the count if function. 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
