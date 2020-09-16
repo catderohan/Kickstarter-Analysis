@@ -29,14 +29,19 @@ In this first deliverable for analysis of outcomes, I struggled with not wanting
 In the second analysis, I struggled some with the count if function. I have never used the count if function and found it a bit tricky and tedious at first. I used > rather than >= on some of the formulas which made my numbers not match up at first. Once I realized this mistake I was able to get the current numbers in the count if function. 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Two things I concluded on outcomes based on launch date was May is the best time to launch a kickerstarter play campaign, whereas December is the worst time, having the most failed campaigns. January had the most cancelled kickstarter campaigns. Holiday time is the most unsuccessful time to launch a play.  Louise launched her campaign in July, whereas the most successful campagins were launched in May. I’d recommend Louise to launch her kickstarter campaign sooner. 
-- What can you conclude about the Outcomes based on Goals?
+- What can you conclude about the Outcomes based on Goals
+
 The most successful projects had a goal lower than $1k with a success rate of 76%. Over ½ of the kickstarter projects had a goal between $1k and $5k with a 73% rate.  Any campaigns over 50k, 88% of them failed. I can conclude within this data, the lower the campaign the higher the successrate. 
  It’s best to keep goal range for plays below 5k. Louise goal was $2,885 which is within range but still higher than the median goal of $2,500. I’d recommend Louise lowering her goal closer to the 2k range. 
 - What are some limitations of this dataset?
+
 I didn’t feel this was an apples to apples comparison. I would have used just 2016 kickstarter plays campaigns in the US to fully compare Louise’s results to other similar kickstarter play campaigns 
 - What are some other possible tables and/or graphs that we could create?
+
 Some other possible data and graphs to create would be to calculate the average length of campaigns vs the ones that failed to compare to Louise’s campaign. I’d also look at spotlight and staff pick to see if that had an influence on a campaign being successful. Lastly, I’d do a quick statistical measurement as well on plays just in the US to find the median, mean, and look for outliers. 
 
-My Recommendation: Overall I’d recommend Louise to start in May and lower her budget closer to $2k to have a successful campaign. The median goal was $3000.  Louise’s goal was $2885 . I’d recommend lowering goal to $2000. Louise also started in July whereas the most successful month for plays was in June. I’d recommend Louise to start her play earlier for a better success rate. Louise length of kickstarter campaign was 28 days which was the average for successful plays, whereas the failure rate was 33 days. Louise only had 10 backups with an average donation of $248.5. Successful campaigns had smaller donations with an average back up of $81.
+My Recommendation: 
+Overall I’d recommend Louise to start in May and lower her budget closer to $2k to have a successful campaign. The median goal was $3000.  Louise’s goal was $2885 . I’d recommend lowering goal to $2000. Louise also started in July whereas the most successful month for plays was in June. I’d recommend Louise to start her play earlier for a better success rate. Louise length of kickstarter campaign was 28 days which was the average for successful plays, whereas the failure rate was 33 days. Louise only had 10 backups with an average donation of $248.5. Successful campaigns had smaller donations with an average back up of $81.
 
