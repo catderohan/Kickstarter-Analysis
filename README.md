@@ -21,9 +21,8 @@ I’d be curious to dive deeper to see if holidays or tax returns impacted the s
 ### Analysis of Outcomes Based on Goals
 I performed this analysis by using the count if function. This formula showed me the number of kickstarter campaigns by goal amounts. Also included in the count if functions were filteres within the formulas by outcomes and plays.  This gave me the amount of play kickstarter campaigns that succeeded/failed/cancelled by goal ranges. Then I created percentiles to better analyze goal ranges and their success rate. 
 Here I was able to see the most successful campaigns were less than 1k. Goals under 1k had a 76% success rate. Goals between 1k and 5k also had a 73% success rate. The higher the goal the lower the success rate. Louise’s campaign was under 5k but I’d recommend a lower goal for Louise to increase her success chance.   
-
  
-
+![](resources/Outcomes_vs_Goals.png)
 
  
 
