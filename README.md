@@ -13,18 +13,11 @@ I’d be curious to dive deeper to see if holidays or tax returns impacted the s
  
 ![](resources/Theater_Outcomes_Vs_Launch.png)
 
-![](images/LaunchDateChart.png)
-
-![](images/AdditionalAnalysisLaunchDate.png)
- 
- 
 ### Analysis of Outcomes Based on Goals
 I performed this analysis by using the count if function. This formula showed me the number of kickstarter campaigns by goal amounts. Also included in the count if functions were filteres within the formulas by outcomes and plays.  This gave me the amount of play kickstarter campaigns that succeeded/failed/cancelled by goal ranges. Then I created percentiles to better analyze goal ranges and their success rate. 
 Here I was able to see the most successful campaigns were less than 1k. Goals under 1k had a 76% success rate. Goals between 1k and 5k also had a 73% success rate. The higher the goal the lower the success rate. Louise’s campaign was under 5k but I’d recommend a lower goal for Louise to increase her success chance.   
  
 ![](resources/Outcomes_vs_Goals.png)
-
-![](images/OutcomeChart.png)
 
 ### Challenges and Difficulties Encountered
 In this first deliverable for analysis of outcomes, I struggled with not wanting to continue to breakdown the data. I wanted to look at the data by 2016 and just plays instead of a theater breakdown. I use pivot tables a lot in my current job so I didn’t struggle with the table as much, but more of doing what was asked instead of continuing to break the data down.
