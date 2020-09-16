@@ -17,7 +17,6 @@ The purpose of this assignment is to compare how other similar kickstarter lay c
  
 ![](resources/Outcomes_vs_Goals.png)
 
-**Link to Excel Kickstarter Challenge Charts:** [Kickstarter_Challenge.zip](Kickstarter_Challenge.zip)
 [Link to Excel Kickstarter Challenge Charts](Kickstarter_Challenge.zip)
 
 ### Challenges and Difficulties Encountered
