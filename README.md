@@ -11,7 +11,7 @@ I performed the analysis by using pivot tables and charts created in the assignm
 This showed me that May was the most popular but also successful month with a 67% success rate which was higher than all other months. Louise started in July which only had a 63% success rate. Also this showed me, that December was the worst month with only a 49% success rate (the only month below a 50% success rate). 
 I’d be curious to dive deeper to see if holidays or tax returns impacted the success rate vs failure rate. 
  
-![](images/LaunchDateChart.png
+![](images/LaunchDateChart.png)
 
 ![](images/AdditionalAnalysisLaunchDate.png) 
 
