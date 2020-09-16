@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this assignment is to compare how other similar kickstarter lay campaigns fared to Louise’s failed kickstarter play campaign. Using the data we were able to compare other kickstarter plays launch date and funding goals to find the idea launch time and goal for a kickstarter play. 
+The purpose of this assignment is to compare how other similar kickstarter play campaigns fared to Louise’s failed kickstarter play campaign. Using the data we were able to compare other kickstarter plays launch date and funding goals to find the idea launch time and goal for a kickstarter play. 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
