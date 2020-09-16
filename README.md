@@ -18,6 +18,7 @@ The purpose of this assignment is to compare how other similar kickstarter lay c
 ![](resources/Outcomes_vs_Goals.png)
 
 **Link to Excel Kickstarter Challenge Charts:** [Kickstarter_Challenge.zip](Kickstarter_Challenge.zip)
+[Link to Excel Kickstarter Challenge Charts](Kickstarter_Challenge.zip)
 
 ### Challenges and Difficulties Encountered
  In this first deliverable for analysis of outcomes, I struggled with not wanting to continue to breakdown the data. I wanted to look at the data by 2016 and just plays instead of a theater breakdown. I use pivot tables a lot in my current job so I didn’t struggle with the table as much, but more of doing what was asked instead of continuing to break the data down.
