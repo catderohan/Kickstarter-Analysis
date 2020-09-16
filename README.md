@@ -14,6 +14,7 @@ I’d be curious to dive deeper to see if holidays or tax returns impacted the s
 ![](resources/Theater_Outcomes_Vs_Launch.png)
 
 ![](images/LaunchDateChart.png)
+
 ![](images/AdditionalAnalysisLaunchDate.png)
  
  
@@ -23,7 +24,7 @@ Here I was able to see the most successful campaigns were less than 1k. Goals un
  
 ![](resources/Outcomes_vs_Goals.png)
 
- 
+![](images/OutcomeChart.png)
 
 ### Challenges and Difficulties Encountered
 In this first deliverable for analysis of outcomes, I struggled with not wanting to continue to breakdown the data. I wanted to look at the data by 2016 and just plays instead of a theater breakdown. I use pivot tables a lot in my current job so I didn’t struggle with the table as much, but more of doing what was asked instead of continuing to break the data down.
