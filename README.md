@@ -23,7 +23,7 @@ The purpose of this assignment is to compare how other similar kickstarter lay c
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
- Two things I concluded on outcomes based on launch date was May is the best and most popular time to launch a kickerstarter play campaign, whereas December is the worst time, having the most failed campaigns. January had the most cancelled kickstarter campaign concluding that holiday time is the most unsuccessful time to launch a play.  Louise launched her campaign in July, whereas the most successful campagins were launched in May. I’d recommend Louise to launch her kickstarter campaign sooner. 
+ Two things I concluded on outcomes based on launch date was May is the best and most popular time to launch a kickerstarter play campaign, whereas December is the worst time, having the most failed campaigns. January had the most cancelled kickstarter campaign concluding that holiday time is the most unsuccessful time to launch a play.  Louise launched her campaign in July, whereas the most successful campaigns were launched in May. I’d recommend Louise to launch her kickstarter campaign sooner. 
 
 - What can you conclude about the Outcomes based on Goals
 
